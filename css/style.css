@@ -1,0 +1,54 @@
+.navbar {
+  background-color: #9AB868;
+}
+
+.jumbotron {
+  background-color: #fff;
+  margin-bottom: 0;
+}
+
+/* .container {
+  padding-left: 2rem;
+} */
+
+.b-dash {
+  border: 1px dashed #CCCF6B;
+  border-radius: 8px;
+}
+
+.b-dash img {
+  float: left;
+}
+
+.b-dash h2 {
+  color: #C78B4A;
+}
+
+.news {
+  color: #C78B4A;
+  font-size: 1rem;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.event {
+  border-bottom: 1px dashed #CCCF6B;
+}
+
+.event img {
+  width: 100%;
+}
+
+#saga {
+  color: #C78B4A;
+}
+
+.ch img {
+ width: 100%;
+}
+
+footer {
+ background-color: #9AB868;
+}
